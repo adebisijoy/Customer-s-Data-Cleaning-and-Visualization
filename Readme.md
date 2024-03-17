@@ -1,6 +1,6 @@
 # Customer Data Cleaning and visualization
 
-This Project visualizes the analysis done on covid19.
+This Project visualizes the analysis done on customers.
 
 ### Visualization Chart
 
